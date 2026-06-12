@@ -10,7 +10,7 @@ function About() {
         <h2 className="text-2xl md:text-5xl font-bold">About Me</h2>
         <div className="md:flex flex-wrap flex-col md:flex-row items-center text-center justify-items-center md:justify-around">
 
-            <div className="w-5/12 h-8/12 md:w-5/12 md:h-9/12 ">
+            <div className="w-7/12 h-12/12 md:w-5/12 md:h-9/12 mt-4">
               <img className="w-full h-full animate-float" src='./about.png' alt="About img" />
             </div>
 
